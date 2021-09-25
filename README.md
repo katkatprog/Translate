@@ -3,5 +3,5 @@
 
 ## ルール
 - npm i puppeteer でpuppeteerをインストールすること。
-- configというディレクトリを作り、その中にsentences.txtというテキストファイルを作成すること。
+- プロジェクトのトップにconfigというディレクトリを作り、その中にsentences.txtというテキストファイルを作成すること。
 - sentence.txt内に英文文章をペーストすること、ただし、1文ごとに改行すること。
